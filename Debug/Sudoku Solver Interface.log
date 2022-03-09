@@ -1,0 +1,26 @@
+﻿  game.cpp
+c:\users\georg\onedrive\desktop\programe\personal projects\interface sudoku\sfml\include\sfml\graphics\rect.inl(81): error C2589: '(': illegal token on right side of '::'
+  c:\users\georg\onedrive\desktop\programe\personal projects\interface sudoku\sfml\include\sfml\graphics\rect.inl(77): note: while compiling class template member function 'bool sf::Rect<float>::contains(T,T) const'
+          with
+          [
+              T=float
+          ]
+  c:\users\georg\onedrive\desktop\programe\personal projects\interface sudoku\sfml\include\sfml\graphics\rect.inl(94): note: see reference to function template instantiation 'bool sf::Rect<float>::contains(T,T) const' being compiled
+          with
+          [
+              T=float
+          ]
+  c:\users\georg\onedrive\desktop\programe\personal projects\interface sudoku\sfml\include\sfml\graphics\rect.inl(28): note: while compiling class template member function 'sf::Rect<float>::Rect(void)'
+  c:\users\georg\onedrive\desktop\programe\personal projects\interface sudoku\sfml\include\sfml\graphics\glyph.hpp(49): note: see reference to function template instantiation 'sf::Rect<float>::Rect(void)' being compiled
+  c:\users\georg\onedrive\desktop\programe\personal projects\interface sudoku\sfml\include\sfml\graphics\shape.hpp(315): note: see reference to class template instantiation 'sf::Rect<float>' being compiled
+c:\users\georg\onedrive\desktop\programe\personal projects\interface sudoku\sfml\include\sfml\graphics\rect.inl(81): error C2062: type 'unknown-type' unexpected
+c:\users\georg\onedrive\desktop\programe\personal projects\interface sudoku\sfml\include\sfml\graphics\rect.inl(81): error C2059: syntax error: ')'
+c:\users\georg\onedrive\desktop\programe\personal projects\interface sudoku\sfml\include\sfml\graphics\rect.inl(82): error C2589: '(': illegal token on right side of '::'
+c:\users\georg\onedrive\desktop\programe\personal projects\interface sudoku\sfml\include\sfml\graphics\rect.inl(82): error C2062: type 'unknown-type' unexpected
+c:\users\georg\onedrive\desktop\programe\personal projects\interface sudoku\sfml\include\sfml\graphics\rect.inl(82): error C2059: syntax error: ')'
+c:\users\georg\onedrive\desktop\programe\personal projects\interface sudoku\sfml\include\sfml\graphics\rect.inl(83): error C2589: '(': illegal token on right side of '::'
+c:\users\georg\onedrive\desktop\programe\personal projects\interface sudoku\sfml\include\sfml\graphics\rect.inl(83): error C2062: type 'unknown-type' unexpected
+c:\users\georg\onedrive\desktop\programe\personal projects\interface sudoku\sfml\include\sfml\graphics\rect.inl(83): error C2059: syntax error: ')'
+c:\users\georg\onedrive\desktop\programe\personal projects\interface sudoku\sfml\include\sfml\graphics\rect.inl(84): error C2589: '(': illegal token on right side of '::'
+c:\users\georg\onedrive\desktop\programe\personal projects\interface sudoku\sfml\include\sfml\graphics\rect.inl(84): error C2062: type 'unknown-type' unexpected
+c:\users\georg\onedrive\desktop\programe\personal projects\interface sudoku\sfml\include\sfml\graphics\rect.inl(84): error C2059: syntax error: ')'
